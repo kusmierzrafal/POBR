@@ -17,9 +17,9 @@ Nie póŸniej ni¿ 09.05.2025 r. nale¿y dostarczyæ prowadz¹cemu i uzyskaæ akceptacj
 ### Wykorzystanie OpenCV w zadaniu projektowym
 Wymagania projektowe dotycz¹ce OpenCV:
 Dostêpne funkcje OpenCV (Wszystko inne piszemy sami!!!)
-cv::imread - czytanie obrazu z pliku
-cv::imwrite - zapis obrazu do pliku
-cv::Mat i cv::_Mat - konstruktory
-cv::imshow - wyœwietlenie obrazu
-cv::waitkey - czekanie na klawisz
-std::cout - wypisywanie informacji na konsolê ;-)
+- cv::imread - czytanie obrazu z pliku
+- cv::imwrite - zapis obrazu do pliku
+- cv::Mat i cv::_Mat - konstruktory
+- cv::imshow - wyœwietlenie obrazu
+- cv::waitkey - czekanie na klawisz
+- std::cout - wypisywanie informacji na konsolê ;-)
